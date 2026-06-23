@@ -18,7 +18,6 @@ The Commerce Payments Protocol facilitates secure escrow-based payments with fle
 
 ## Deployment Addresses
 
-### Base Mainnet & Base Sepolia
 
 | Contract | Address |
 |----------|---------|
