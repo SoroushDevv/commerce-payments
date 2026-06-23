@@ -6,7 +6,6 @@ A permissionless protocol for onchain payments that mimics traditional "authoriz
 
 The Commerce Payments Protocol facilitates secure escrow-based payments with flexible authorization and capture patterns. Operators drive payment flows using modular token collectors while the protocol ensures payer and merchant protections.
 
-**📖 [Read the Full Documentation](docs/README.md)**
 
 ## Key Features
 
