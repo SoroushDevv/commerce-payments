@@ -1,4 +1,4 @@
-# Commerce Payments Protocol
+
 
 A permissionless protocol for onchain payments that mimics traditional "authorize and capture" payment flows.
 
